@@ -40,7 +40,7 @@
     "@adeira/babel-preset-adeira": "^4.0.0",
     "@fbtjs/default-collection-transform": "^1.0.0",
     "@playwright/test": "^1.33.0",
-    "@testing-library/react": "^13.4.0",
+    "@testing-library/react": "^14.0.0",
     "playwright": "^1.33.0"
   }
 }
